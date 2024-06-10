@@ -1,4 +1,4 @@
-# MERN-Twitter-clone
+# Mini-Twitter-clone
 
 ## Features
 
